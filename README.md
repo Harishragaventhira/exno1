@@ -69,4 +69,4 @@ STEP 6: Use zscore of to remove outliers
 ``
             
 # Result
-          <<include your Result here>>
+data cleaning process is completed
